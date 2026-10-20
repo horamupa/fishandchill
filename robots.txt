@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://horamupa.github.io/fishandchill/sitemap.xml
+Sitemap: https://cozyfishing.app/sitemap.xml

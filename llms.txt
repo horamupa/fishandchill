@@ -4,10 +4,10 @@
 
 ## Pages
 
-- [English](https://horamupa.github.io/fishandchill/): A cozy fishing game for Apple Watch: reel with the Digital Crown, feel the fish through haptics. The lake follows your real clock. Also on iPhone. No ads, works offline.
-- [Deutsch](https://horamupa.github.io/fishandchill/de/): Gemütliches Angelspiel für die Apple Watch: Kurbeln mit der Digital Crown, Fische per Haptik spüren. Der See folgt deiner echten Uhr. Auch für iPhone. Ohne Werbung, offline.
-- [Français](https://horamupa.github.io/fishandchill/fr/): Jeu de pêche cosy pour Apple Watch : moulinez avec la Digital Crown, sentez le poisson grâce aux vibrations. Le lac suit votre heure réelle. Aussi sur iPhone. Sans pub.
-- [Español](https://horamupa.github.io/fishandchill/es/): Juego de pesca cozy para Apple Watch: recoge sedal con la Digital Crown y siente el pez con la vibración. El lago sigue tu reloj real. También en iPhone. Sin anuncios.
-- [日本語](https://horamupa.github.io/fishandchill/ja/): Apple Watchのほのぼの釣りゲーム。Digital Crownでリールを巻き、魚の引きを振動で感じる。湖は実時間で動く。iPhoneにも対応。広告なし・オフライン対応。
-- [Русский](https://horamupa.github.io/fishandchill/ru/): Уютная рыбалка для Apple Watch: Digital Crown — катушка, поклёвку чувствуете вибрацией. Озеро живёт по вашим часам. Есть и на iPhone. Без рекламы, без интернета.
-- [Privacy Policy](https://horamupa.github.io/fishandchill/privacy.html)
+- [English](https://cozyfishing.app/): A cozy fishing game for Apple Watch: reel with the Digital Crown, feel the fish through haptics. The lake follows your real clock. Also on iPhone. No ads, works offline.
+- [Deutsch](https://cozyfishing.app/de/): Gemütliches Angelspiel für die Apple Watch: Kurbeln mit der Digital Crown, Fische per Haptik spüren. Der See folgt deiner echten Uhr. Auch für iPhone. Ohne Werbung, offline.
+- [Français](https://cozyfishing.app/fr/): Jeu de pêche cosy pour Apple Watch : moulinez avec la Digital Crown, sentez le poisson grâce aux vibrations. Le lac suit votre heure réelle. Aussi sur iPhone. Sans pub.
+- [Español](https://cozyfishing.app/es/): Juego de pesca cozy para Apple Watch: recoge sedal con la Digital Crown y siente el pez con la vibración. El lago sigue tu reloj real. También en iPhone. Sin anuncios.
+- [日本語](https://cozyfishing.app/ja/): Apple Watchのほのぼの釣りゲーム。Digital Crownでリールを巻き、魚の引きを振動で感じる。湖は実時間で動く。iPhoneにも対応。広告なし・オフライン対応。
+- [Русский](https://cozyfishing.app/ru/): Уютная рыбалка для Apple Watch: Digital Crown — катушка, поклёвку чувствуете вибрацией. Озеро живёт по вашим часам. Есть и на iPhone. Без рекламы, без интернета.
+- [Privacy Policy](https://cozyfishing.app/privacy.html)
