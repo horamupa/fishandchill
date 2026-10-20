@@ -234,5 +234,7 @@ footer a { color: var(--muted); }
     text-align: left;
     gap: 1.75rem;
   }
+  /* в колонке flex-basis 24rem стал бы высотой блока */
+  .hero-text, .benefit-text { flex-basis: auto; }
   section { padding: 2.25rem 0; }
 }
