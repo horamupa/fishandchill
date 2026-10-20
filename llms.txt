@@ -1,0 +1,13 @@
+# Fish & Chill
+
+> Cozy fishing game for iPhone and Apple Watch. The in-game lake runs on the player's real clock: day, dusk and night follow the actual time zone, and each of the 20 fish species keeps its own real-world biting hours. On Apple Watch the Digital Crown is the reel. Free, no ads, no energy timers, works fully offline.
+
+## Pages
+
+- [English](https://horamupa.github.io/fishandchill/): A cozy fishing game that runs on your real clock: dusk outside means dusk on the water. Reel with the Digital Crown on Apple Watch. No ads. Works offline.
+- [Deutsch](https://horamupa.github.io/fishandchill/de/): Ein gemütliches Angelspiel, das nach deiner echten Uhr läuft: Wird es draußen Abend, wird es auch auf dem Wasser Abend. Kurbeln mit der Digital Crown. Ohne Werbung, offline spielbar.
+- [Français](https://horamupa.github.io/fishandchill/fr/): Un jeu de pêche cosy qui vit à l'heure réelle : quand le soleil se couche chez vous, il se couche aussi sur l'eau. Moulinez avec la Digital Crown. Sans pub, jouable hors ligne.
+- [Español](https://horamupa.github.io/fishandchill/es/): Un juego de pesca cozy que sigue tu reloj real: cuando anochece en tu ventana, anochece en el agua. Recoge sedal con la Digital Crown. Sin anuncios y sin conexión.
+- [日本語](https://horamupa.github.io/fishandchill/ja/): 実時間で動く湖でのんびり釣り。窓の外が夕暮れなら、水面も夕暮れ。Apple WatchのDigital Crownでリールを巻く本格釣りゲーム。広告なし・オフライン対応。
+- [Русский](https://horamupa.github.io/fishandchill/ru/): Расслабляющая рыбалка, живущая по вашим настоящим часам: за окном закат — и на воде закат. Крутите Digital Crown как катушку. Без рекламы, работает без интернета.
+- [Privacy Policy](https://horamupa.github.io/fishandchill/privacy.html)
