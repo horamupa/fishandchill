@@ -61,7 +61,68 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/"/>
   </url>
   <url>
+    <loc>https://cozyfishing.app/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/guias/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/stati/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/de/ratgeber/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/guias/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/stati/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/fr/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/guias/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/stati/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/es/guias/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/guias/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/stati/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/ja/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/guias/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/stati/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/guides/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/ru/stati/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/ratgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/guias/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/stati/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/guides/"/>
+  </url>
+  <url>
     <loc>https://cozyfishing.app/best-apple-watch-games/</loc>
+    <lastmod>2026-10-20</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/best-apple-watch-games/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/beste-apple-watch-spiele/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/meilleurs-jeux-apple-watch/"/>
@@ -72,6 +133,7 @@
   </url>
   <url>
     <loc>https://cozyfishing.app/de/beste-apple-watch-spiele/</loc>
+    <lastmod>2026-10-20</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/best-apple-watch-games/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/beste-apple-watch-spiele/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/meilleurs-jeux-apple-watch/"/>
@@ -82,6 +144,7 @@
   </url>
   <url>
     <loc>https://cozyfishing.app/fr/meilleurs-jeux-apple-watch/</loc>
+    <lastmod>2026-10-20</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/best-apple-watch-games/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/beste-apple-watch-spiele/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/meilleurs-jeux-apple-watch/"/>
@@ -92,6 +155,7 @@
   </url>
   <url>
     <loc>https://cozyfishing.app/es/mejores-juegos-apple-watch/</loc>
+    <lastmod>2026-10-20</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/best-apple-watch-games/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/beste-apple-watch-spiele/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/meilleurs-jeux-apple-watch/"/>
@@ -102,6 +166,7 @@
   </url>
   <url>
     <loc>https://cozyfishing.app/ja/apple-watch-games/</loc>
+    <lastmod>2026-10-20</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/best-apple-watch-games/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/beste-apple-watch-spiele/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/meilleurs-jeux-apple-watch/"/>
@@ -112,6 +177,7 @@
   </url>
   <url>
     <loc>https://cozyfishing.app/ru/igry-dlya-apple-watch/</loc>
+    <lastmod>2026-10-20</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/best-apple-watch-games/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/beste-apple-watch-spiele/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/meilleurs-jeux-apple-watch/"/>

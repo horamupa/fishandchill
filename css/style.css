@@ -258,6 +258,15 @@ main.article { max-width: 46rem; }
   border-top: 1px solid var(--line);
 }
 
+.text { padding: 1.5rem 0; border-top: 1px solid var(--line); }
+.text p { color: var(--muted); }
+.text p + p { margin-top: 0.75rem; }
+.guides { list-style: none; }
+.guides li { padding: 1.25rem 0; border-top: 1px solid var(--line); }
+.guides a { color: var(--text); font-weight: 700; font-size: 1.15rem; text-decoration: none; }
+.guides a:hover { color: var(--accent); }
+.guides p { color: var(--muted); margin-top: 0.35rem; }
+
 /* Страница политики */
 .doc { max-width: 46rem; margin: 0 auto; padding: 1rem 1.25rem 3rem; }
 .doc h1 { margin: 1.5rem 0 1rem; }
