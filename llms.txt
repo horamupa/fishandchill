@@ -11,3 +11,12 @@
 - [日本語](https://cozyfishing.app/ja/): Apple Watchのほのぼの釣りゲーム。Digital Crownでリールを巻き、魚の引きを振動で感じる。湖は実時間で動く。iPhoneにも対応。広告なし・オフライン対応。
 - [Русский](https://cozyfishing.app/ru/): Уютная рыбалка для Apple Watch: Digital Crown — катушка, поклёвку чувствуете вибрацией. Озеро живёт по вашим часам. Есть и на iPhone. Без рекламы, без интернета.
 - [Privacy Policy](https://cozyfishing.app/privacy.html)
+
+## Guides
+
+- [Best Apple Watch Games (2026): 10 Worth Playing](https://cozyfishing.app/best-apple-watch-games/): 10 Apple Watch games that play right on your wrist, checked in the App Store in October 2026: fishing, story, strategy, arcade and puzzles. Free picks included.
+- [Die besten Apple Watch Spiele (2026): 10 Empfehlungen](https://cozyfishing.app/de/beste-apple-watch-spiele/): 10 Apple Watch Spiele, die direkt am Handgelenk laufen, im App Store geprüft im Oktober 2026: Angeln, Story, Strategie, Arcade und Rätsel. Mit kostenlosen Tipps.
+- [Meilleurs jeux Apple Watch (2026) : 10 jeux à essayer](https://cozyfishing.app/fr/meilleurs-jeux-apple-watch/): 10 jeux Apple Watch qui tournent directement au poignet, vérifiés sur l'App Store en octobre 2026 : pêche, histoire, stratégie, arcade et réflexion. Gratuits inclus.
+- [Mejores juegos para Apple Watch (2026): 10 que valen la pena](https://cozyfishing.app/es/mejores-juegos-apple-watch/): 10 juegos para Apple Watch que se juegan en la muñeca, revisados en el App Store en octubre de 2026: pesca, historia, estrategia, arcade y puzles. Incluye gratis.
+- [Apple Watch ゲーム おすすめ10選【2026年版】](https://cozyfishing.app/ja/apple-watch-games/): 手首の上でそのまま遊べるApple Watchゲーム10本。2026年10月にApp Storeで確認済み：釣り、ストーリー、戦略、アーケード、パズル。無料ゲームも紹介。
+- [Игры для Apple Watch: 10 лучших в 2026 году](https://cozyfishing.app/ru/igry-dlya-apple-watch/): 10 игр для Apple Watch, в которые играют прямо на запястье. Проверено в App Store в октябре 2026: рыбалка, сюжет, стратегия, аркады и головоломки. Есть бесплатные.
