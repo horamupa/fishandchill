@@ -14,6 +14,12 @@
 
 ## Guides
 
+- [Can You Play Games on Apple Watch? How to Get Them](https://cozyfishing.app/can-you-play-games-on-apple-watch/): Yes, Apple Watch runs real games. How to download games on Apple Watch from the watch or iPhone, how they're controlled, and whether you need the phone nearby.
+- [Apple Watch Spiele: So spielst und installierst du sie](https://cozyfishing.app/de/spiele-auf-der-apple-watch/): Kann man auf der Apple Watch spielen? Ja. So installierst du Apple Watch Spiele auf der Uhr oder übers iPhone, so steuerst du sie und so viel iPhone braucht es.
+- [Jeux Apple Watch : peut-on jouer et comment les installer](https://cozyfishing.app/fr/jouer-sur-apple-watch/): Oui, on peut jouer sur Apple Watch. Installer des jeux Apple Watch depuis la montre ou l'iPhone, comment on y joue et s'il faut garder l'iPhone à proximité.
+- [Juegos en Apple Watch: cómo jugar y cómo descargarlos](https://cozyfishing.app/es/juegos-en-apple-watch/): Sí, se puede jugar en Apple Watch. Cómo descargar juegos para Apple Watch desde el reloj o el iPhone, cómo se controlan y si hace falta tener el iPhone cerca.
+- [Apple Watch ゲームのやり方と入れ方【2026年版】](https://cozyfishing.app/ja/play-games-on-apple-watch/): アップルウォッチでゲームはできる？できます。Apple Watch ゲームを時計やiPhoneから入れる方法、操作のしかた、iPhoneが近くに必要かをまとめました。
+- [Игры на Apple Watch: как установить и как играть](https://cozyfishing.app/ru/kak-igrat-na-apple-watch/): Можно ли играть на Apple Watch? Да. Как установить игры на Apple Watch с часов или с iPhone, как ими управлять и нужен ли рядом iPhone.
 - [Best Offline Games for iPhone (2026): 10 With No Wi-Fi](https://cozyfishing.app/best-offline-games-iphone/): 10 offline iPhone games checked in the App Store in October 2026: fishing, strategy, racing, roguelikes, puzzles and runners. All play without Wi-Fi.
 - [Spiele ohne Internet: 10 Offline-Spiele fürs iPhone (2026)](https://cozyfishing.app/de/spiele-ohne-internet/): 10 Offline-Spiele fürs iPhone, im App Store geprüft im Oktober 2026: Angeln, Strategie, Rennen, Roguelikes und Rätsel. Alle laufen ohne Internet und WLAN.
 - [Jeux sans connexion : 10 jeux iPhone sans wifi (2026)](https://cozyfishing.app/fr/jeux-sans-connexion/): 10 jeux hors ligne pour iPhone, vérifiés sur l'App Store en octobre 2026 : pêche, stratégie, course, roguelike et puzzles. Tous se jouent sans wifi.
