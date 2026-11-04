@@ -273,6 +273,32 @@ main.article { max-width: 46rem; }
 .guides a:hover { color: var(--accent); }
 .guides p { color: var(--muted); margin-top: 0.35rem; }
 
+/* Форма поддержки */
+.support { padding: 0.5rem 0 1.5rem; }
+.support label, .support legend { display: block; font-weight: 600; }
+.support input[type="email"], .support textarea {
+  display: block;
+  width: 100%;
+  margin: 0.35rem 0 1.25rem;
+  padding: 0.7rem 0.9rem;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font: inherit;
+}
+.support textarea { resize: vertical; }
+.support input:focus-visible, .support textarea:focus-visible { outline: 2px solid var(--accent2); }
+.support fieldset { border: 0; margin-bottom: 1.25rem; }
+.support legend { margin-bottom: 0.35rem; }
+.support fieldset label { display: inline-block; font-weight: 400; margin-right: 1.25rem; }
+.support input[type="radio"] { accent-color: var(--accent); margin-right: 0.25rem; }
+.support .fail { color: var(--accent); margin-bottom: 1rem; }
+.support .fail a { color: var(--accent2); }
+.support button { border: 0; font-family: inherit; font-size: 1rem; cursor: pointer; }
+.support button:disabled { opacity: 0.6; }
+.support .cta-note { margin-top: 1rem; }
+
 /* Страница политики */
 .doc { max-width: 46rem; margin: 0 auto; padding: 1rem 1.25rem 3rem; }
 .doc h1 { margin: 1.5rem 0 1rem; }

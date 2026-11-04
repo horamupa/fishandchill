@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Поддержка Fish &amp; Chill и Cozy Fishing</title>
+  <meta name="description" content="Сообщите об ошибке, спросите про покупку или предложите идею для Fish &amp; Chill или Cozy Fishing. Отвечаем на почту.">
+  <link rel="canonical" href="https://cozyfishing.app/ru/support/">
+  <link rel="alternate" hreflang="en" href="https://cozyfishing.app/support/">
+  <link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/support/">
+  <link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/support/">
+  <link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/support/">
+  <link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/support/">
+  <link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/support/">
+  <link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/support/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Fish &amp; Chill">
+  <meta property="og:title" content="Поддержка Fish &amp; Chill и Cozy Fishing">
+  <meta property="og:description" content="Сообщите об ошибке, спросите про покупку или предложите идею для Fish &amp; Chill или Cozy Fishing. Отвечаем на почту.">
+  <meta property="og:url" content="https://cozyfishing.app/ru/support/">
+  <meta property="og:image" content="https://cozyfishing.app/img/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="ru_RU">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Поддержка Fish &amp; Chill и Cozy Fishing">
+  <meta name="twitter:description" content="Сообщите об ошибке, спросите про покупку или предложите идею для Fish &amp; Chill или Cozy Fishing. Отвечаем на почту.">
+  <meta name="twitter:image" content="https://cozyfishing.app/img/og.jpg">
+  <meta name="theme-color" content="#0b1d33">
+  <link rel="icon" href="https://cozyfishing.app/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="https://cozyfishing.app/css/style.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="https://cozyfishing.app/ru/">🎣 Fish &amp; Chill</a>
+    <nav class="langs" aria-label="Язык"><a href="https://cozyfishing.app/support/" hreflang="en">English</a> <a href="https://cozyfishing.app/de/support/" hreflang="de">Deutsch</a> <a href="https://cozyfishing.app/fr/support/" hreflang="fr">Français</a> <a href="https://cozyfishing.app/es/support/" hreflang="es">Español</a> <a href="https://cozyfishing.app/ja/support/" hreflang="ja">日本語</a> <a href="https://cozyfishing.app/ru/support/" aria-current="page" hreflang="ru">Русский</a></nav>
+  </header>
+
+  <main class="article">
+    <h1>Поддержка</h1>
+    <p class="lead">Нашли ошибку, не прошла покупка или есть идея? Напишите нам, ответим на почту.</p>
+    <form class="support" action="https://docs.google.com/forms/d/e/1FAIpQLSegXJcf-3jMorHUBrONd7ndnSvUa-Ot32S8trwgyLxgbVG-6g/formResponse" method="post">
+      <label for="email">Email</label>
+      <input id="email" name="entry.159296548" type="email" autocomplete="email" required>
+      <label for="message">Чем мы можем помочь?</label>
+      <textarea id="message" name="entry.1599516957" rows="6" required></textarea>
+      <fieldset>
+        <legend>Платформа</legend>
+        <label><input type="radio" name="entry.1312323427" value="iPhone" required> iPhone</label>
+        <label><input type="radio" name="entry.1312323427" value="Apple Watch" required> Apple Watch</label>
+        <label><input type="radio" name="entry.1312323427" value="Android" required> Android</label>
+      </fieldset>
+      <p class="fail" role="alert" hidden>Сообщение не отправлено. Проверьте подключение и попробуйте ещё раз. <a href="https://docs.google.com/forms/d/e/1FAIpQLSegXJcf-3jMorHUBrONd7ndnSvUa-Ot32S8trwgyLxgbVG-6g/viewform">Отправить через Google Формы</a></p>
+      <button class="cta" type="submit">Отправить</button>
+      <p class="cta-note">Email нужен только для ответа. Сообщение хранится в Google Формах.</p>
+    </form>
+    <p class="note" role="status" hidden>Спасибо! Сообщение отправлено. Ответим на почту.</p>
+  </main>
+  <script>
+const form = document.querySelector(".support");
+form.addEventListener("submit", async (event) => {
+  event.preventDefault();
+  const button = form.querySelector("button");
+  button.disabled = true;
+  try {
+    await fetch(form.action, {method: "POST", mode: "no-cors", body: new URLSearchParams(new FormData(form))});
+    form.remove();
+    document.querySelector(".note").hidden = false;
+  } catch {
+    form.querySelector(".fail").hidden = false;
+    button.disabled = false;
+  }
+});
+</script>
+
+  <footer>
+    <nav class="langs" aria-label="Язык"><a href="https://cozyfishing.app/support/" hreflang="en">English</a> <a href="https://cozyfishing.app/de/support/" hreflang="de">Deutsch</a> <a href="https://cozyfishing.app/fr/support/" hreflang="fr">Français</a> <a href="https://cozyfishing.app/es/support/" hreflang="es">Español</a> <a href="https://cozyfishing.app/ja/support/" hreflang="ja">日本語</a> <a href="https://cozyfishing.app/ru/support/" aria-current="page" hreflang="ru">Русский</a></nav>
+    <p><a href="https://cozyfishing.app/ru/stati/">Статьи</a> · <a href="https://cozyfishing.app/ru/android/">Android и Wear OS</a> · <a href="https://cozyfishing.app/ru/support/">Поддержка</a> · <a href="https://cozyfishing.app/privacy.html">Политика конфиденциальности</a> · <a href="https://cozyfishing.app/terms.html">Условия использования</a> · © 2026 Fish &amp; Chill</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fish &amp; ChillとCozy Fishingのサポート</title>
+  <meta name="description" content="Fish &amp; ChillとCozy Fishingの不具合の報告、購入に関するお問い合わせ、ご提案はこちら。メールで返信します。">
+  <link rel="canonical" href="https://cozyfishing.app/ja/support/">
+  <link rel="alternate" hreflang="en" href="https://cozyfishing.app/support/">
+  <link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/support/">
+  <link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/support/">
+  <link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/support/">
+  <link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/support/">
+  <link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/support/">
+  <link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/support/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Fish &amp; Chill">
+  <meta property="og:title" content="Fish &amp; ChillとCozy Fishingのサポート">
+  <meta property="og:description" content="Fish &amp; ChillとCozy Fishingの不具合の報告、購入に関するお問い合わせ、ご提案はこちら。メールで返信します。">
+  <meta property="og:url" content="https://cozyfishing.app/ja/support/">
+  <meta property="og:image" content="https://cozyfishing.app/img/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="ja_JP">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Fish &amp; ChillとCozy Fishingのサポート">
+  <meta name="twitter:description" content="Fish &amp; ChillとCozy Fishingの不具合の報告、購入に関するお問い合わせ、ご提案はこちら。メールで返信します。">
+  <meta name="twitter:image" content="https://cozyfishing.app/img/og.jpg">
+  <meta name="theme-color" content="#0b1d33">
+  <link rel="icon" href="https://cozyfishing.app/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="https://cozyfishing.app/css/style.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="https://cozyfishing.app/ja/">🎣 Fish &amp; Chill</a>
+    <nav class="langs" aria-label="言語"><a href="https://cozyfishing.app/support/" hreflang="en">English</a> <a href="https://cozyfishing.app/de/support/" hreflang="de">Deutsch</a> <a href="https://cozyfishing.app/fr/support/" hreflang="fr">Français</a> <a href="https://cozyfishing.app/es/support/" hreflang="es">Español</a> <a href="https://cozyfishing.app/ja/support/" aria-current="page" hreflang="ja">日本語</a> <a href="https://cozyfishing.app/ru/support/" hreflang="ru">Русский</a></nav>
+  </header>
+
+  <main class="article">
+    <h1>サポート</h1>
+    <p class="lead">不具合や購入のトラブル、ご提案などがあればお知らせください。メールで返信します。</p>
+    <form class="support" action="https://docs.google.com/forms/d/e/1FAIpQLSegXJcf-3jMorHUBrONd7ndnSvUa-Ot32S8trwgyLxgbVG-6g/formResponse" method="post">
+      <label for="email">メールアドレス</label>
+      <input id="email" name="entry.159296548" type="email" autocomplete="email" required>
+      <label for="message">どのようなご用件ですか？</label>
+      <textarea id="message" name="entry.1599516957" rows="6" required></textarea>
+      <fieldset>
+        <legend>プラットフォーム</legend>
+        <label><input type="radio" name="entry.1312323427" value="iPhone" required> iPhone</label>
+        <label><input type="radio" name="entry.1312323427" value="Apple Watch" required> Apple Watch</label>
+        <label><input type="radio" name="entry.1312323427" value="Android" required> Android</label>
+      </fieldset>
+      <p class="fail" role="alert" hidden>送信できませんでした。接続を確認して、もう一度お試しください。 <a href="https://docs.google.com/forms/d/e/1FAIpQLSegXJcf-3jMorHUBrONd7ndnSvUa-Ot32S8trwgyLxgbVG-6g/viewform">Googleフォームから送信</a></p>
+      <button class="cta" type="submit">送信</button>
+      <p class="cta-note">メールアドレスは返信にのみ使用します。メッセージはGoogleフォームに保存されます。</p>
+    </form>
+    <p class="note" role="status" hidden>ありがとうございます。メッセージを送信しました。メールで返信します。</p>
+  </main>
+  <script>
+const form = document.querySelector(".support");
+form.addEventListener("submit", async (event) => {
+  event.preventDefault();
+  const button = form.querySelector("button");
+  button.disabled = true;
+  try {
+    await fetch(form.action, {method: "POST", mode: "no-cors", body: new URLSearchParams(new FormData(form))});
+    form.remove();
+    document.querySelector(".note").hidden = false;
+  } catch {
+    form.querySelector(".fail").hidden = false;
+    button.disabled = false;
+  }
+});
+</script>
+
+  <footer>
+    <nav class="langs" aria-label="言語"><a href="https://cozyfishing.app/support/" hreflang="en">English</a> <a href="https://cozyfishing.app/de/support/" hreflang="de">Deutsch</a> <a href="https://cozyfishing.app/fr/support/" hreflang="fr">Français</a> <a href="https://cozyfishing.app/es/support/" hreflang="es">Español</a> <a href="https://cozyfishing.app/ja/support/" aria-current="page" hreflang="ja">日本語</a> <a href="https://cozyfishing.app/ru/support/" hreflang="ru">Русский</a></nav>
+    <p><a href="https://cozyfishing.app/ja/guides/">ガイド</a> · <a href="https://cozyfishing.app/ja/android/">AndroidとWear OS</a> · <a href="https://cozyfishing.app/ja/support/">サポート</a> · <a href="https://cozyfishing.app/privacy.html">プライバシーポリシー</a> · <a href="https://cozyfishing.app/terms.html">利用規約</a> · © 2026 Fish &amp; Chill</p>
+  </footer>
+</body>
+</html>

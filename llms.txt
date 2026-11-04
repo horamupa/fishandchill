@@ -11,6 +11,8 @@
 - [日本語](https://cozyfishing.app/ja/): Apple Watchのほのぼの釣りゲーム。Digital Crownでリールを巻き、魚の引きを振動で感じる。湖は実時間で動く。iPhoneにも対応。広告なし・オフライン対応。
 - [Русский](https://cozyfishing.app/ru/): Уютная рыбалка для Apple Watch: Digital Crown — катушка, поклёвку чувствуете вибрацией. Озеро живёт по вашим часам. Есть и на iPhone. Без рекламы, без интернета.
 - [Privacy Policy](https://cozyfishing.app/privacy.html)
+- [Terms of Use](https://cozyfishing.app/terms.html)
+- [Support](https://cozyfishing.app/support/)
 
 ## Cozy Fishing
 
