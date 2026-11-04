@@ -95,6 +95,12 @@ h1 {
 
 .cta-note { color: var(--muted); font-size: 0.9rem; }
 
+.also { margin-top: 1rem; font-size: 0.95rem; }
+.also a { color: var(--accent2); }
+
+/* Круглый экран часов Wear OS вместо рамки Apple Watch */
+.round { border-radius: 50%; border: 8px solid #1c2b3f; }
+
 .hero-watch {
   width: min(340px, 80vw);
   height: auto;

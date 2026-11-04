@@ -12,6 +12,18 @@
 - [Русский](https://cozyfishing.app/ru/): Уютная рыбалка для Apple Watch: Digital Crown — катушка, поклёвку чувствуете вибрацией. Озеро живёт по вашим часам. Есть и на iPhone. Без рекламы, без интернета.
 - [Privacy Policy](https://cozyfishing.app/privacy.html)
 
+## Cozy Fishing
+
+A separate cozy offline fishing game for Android phones and Wear OS watches, from the same team, listed on Google Play as "Offline Fishing: Fish Game". Tap to cast, reel with a swipe or the Wear OS crown, 30 species, a session takes 15 to 40 seconds. Free to 10 m with one optional one-time purchase, no ads, no account, works fully offline.
+
+- [English](https://cozyfishing.app/android/): A cozy offline fishing game for Wear OS watches and Android phones. Reel with the crown, feel the bite on your wrist, catch 30 species. No ads, no account.
+- [Deutsch](https://cozyfishing.app/de/android/): Gemütliches Offline-Angelspiel für Wear-OS-Uhren und Android-Handys. Kurbeln mit der Krone, Biss am Handgelenk spüren, 30 Fischarten. Ohne Werbung und Konto.
+- [Français](https://cozyfishing.app/fr/android/): Un jeu de pêche hors ligne tout doux pour montres Wear OS et téléphones Android. Moulinez avec la couronne, sentez la touche, 30 espèces. Sans pub ni compte.
+- [Español](https://cozyfishing.app/es/android/): Un juego de pesca sin conexión para relojes Wear OS y móviles Android. Recoge con la corona, siente la picada en la muñeca, 30 especies. Sin anuncios ni cuenta.
+- [日本語](https://cozyfishing.app/ja/android/): Wear OSの腕時計とAndroidスマホで遊べる、のんびりオフライン釣りゲーム。リューズでリールを巻き、手首でアタリを感じる。全30種。広告なし、アカウント不要。
+- [Русский](https://cozyfishing.app/ru/android/): Уютная офлайн-рыбалка для часов на Wear OS и телефонов на Android. Катушка на короне, поклёвка на запястье, 30 видов рыб. Без рекламы и аккаунта.
+- [Google Play](https://play.google.com/store/apps/details?id=app.buildfor.cozyfishing)
+
 ## Guides
 
 - [Best Puzzle Games for Apple Watch (2026): 10 Picks](https://cozyfishing.app/best-puzzle-games-apple-watch/): 10 puzzle games for Apple Watch, checked in the App Store in November 2026: sudoku, solitaire, 2048, word games, mahjong and brain training. Nine are free.

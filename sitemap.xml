@@ -121,6 +121,66 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/guides/"/>
   </url>
   <url>
+    <loc>https://cozyfishing.app/android/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/android/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/android/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/android/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/android/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/de/android/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/android/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/android/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/android/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/android/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/fr/android/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/android/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/android/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/android/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/android/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/es/android/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/android/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/android/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/android/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/android/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/ja/android/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/android/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/android/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/android/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/android/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/ru/android/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/android/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/android/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/android/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/android/"/>
+  </url>
+  <url>
     <loc>https://cozyfishing.app/best-puzzle-games-apple-watch/</loc>
     <lastmod>2026-11-04</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/best-puzzle-games-apple-watch/"/>
