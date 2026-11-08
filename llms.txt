@@ -28,6 +28,12 @@ A separate cozy offline fishing game for Android phones and Wear OS watches, fro
 
 ## Guides
 
+- [Can You Play Games on Galaxy Watch? How to Install Them](https://cozyfishing.app/how-to-install-games-on-galaxy-watch/): Yes, Galaxy Watch and other Wear OS watches run real games. How to install apps on Galaxy Watch from the watch or your phone, how they play, and what you need.
+- [Galaxy Watch Apps installieren: So kommen Spiele drauf](https://cozyfishing.app/de/galaxy-watch-apps-installieren/): Auf Galaxy Watch und anderen Wear-OS-Uhren laufen echte Spiele. So installierst du Galaxy Watch Apps über die Uhr oder das Handy, und so wird gespielt.
+- [Installer une application sur Galaxy Watch : les jeux](https://cozyfishing.app/fr/installer-jeux-galaxy-watch/): Les Galaxy Watch et montres Wear OS font tourner de vrais jeux. Comment installer une application sur Galaxy Watch depuis la montre ou le téléphone.
+- [Juegos y aplicaciones en Galaxy Watch: cómo instalarlos](https://cozyfishing.app/es/instalar-juegos-galaxy-watch/): Galaxy Watch y los relojes Wear OS ejecutan juegos de verdad. Cómo instalar aplicaciones en Galaxy Watch desde el reloj o el móvil y cómo se juega.
+- [Galaxy Watch アプリのインストール方法とゲームの遊び方](https://cozyfishing.app/ja/install-games-galaxy-watch/): Galaxy WatchなどWear OSのスマートウォッチでは本物のゲームが遊べます。ウォッチやスマホからのGalaxy Watch アプリのインストール方法と遊び方を解説。
+- [Как установить приложение на Galaxy Watch: игры и шаги](https://cozyfishing.app/ru/kak-ustanovit-igry-na-galaxy-watch/): На Galaxy Watch и других часах с Wear OS идут настоящие игры. Как установить приложение на Galaxy Watch с часов или телефона и как в них играть.
 - [Best Galaxy Watch Games (2026): 10 Wear OS Picks](https://cozyfishing.app/best-wear-os-games/): 10 Galaxy Watch games that play on the watch itself, checked on Google Play in November 2026: fishing, chess, RPG, puzzles, cards, arcade. Free picks too.
 - [Smartwatch Spiele 2026: 10 für Galaxy Watch & Wear OS](https://cozyfishing.app/de/smartwatch-spiele-wear-os/): 10 Smartwatch Spiele, die direkt auf der Galaxy Watch laufen, geprüft im November 2026 bei Google Play: Angeln, Schach, RPG, Rätsel, Karten und Arcade.
 - [Jeux Galaxy Watch (2026) : 10 jeux pour montre Wear OS](https://cozyfishing.app/fr/jeux-galaxy-watch-wear-os/): 10 jeux Galaxy Watch qui tournent sur la montre connectée elle-même, vérifiés sur Google Play en novembre 2026 : pêche, échecs, RPG, puzzles, cartes et arcade.
