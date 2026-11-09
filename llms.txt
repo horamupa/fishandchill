@@ -28,6 +28,12 @@ A separate cozy offline fishing game for Android phones and Wear OS watches, fro
 
 ## Guides
 
+- [Cozy Android Games: 10 Calm Picks for 2026](https://cozyfishing.app/cozy-android-games/): 10 cozy Android games checked on Google Play in November 2026: fishing, farming, cats, tidy puzzles and town building. Prices and ads noted for each.
+- [Cozy Games für Android: die 10 besten (2026)](https://cozyfishing.app/de/cozy-games-android/): 10 Cozy Games für Android, im November 2026 bei Google Play geprüft: Angeln, Farm, Katzen, Aufräum-Rätsel und Städtebau. Preise und Werbung je Spiel.
+- [Jeux cosy sur Android : les 10 meilleurs (2026)](https://cozyfishing.app/fr/jeux-cosy-android/): 10 jeux cosy sur Android vérifiés sur Google Play en novembre 2026 : pêche, ferme, chats, puzzles de rangement et villes. Prix et pubs pour chaque jeu.
+- [Juegos cozy para Android: los 10 mejores (2026)](https://cozyfishing.app/es/juegos-cozy-android/): 10 juegos cozy para Android revisados en Google Play en noviembre de 2026: pesca, granja, gatos, puzles de ordenar y pueblos. Precio y anuncios de cada uno.
+- [Android癒し系ゲームアプリおすすめ10選【2026年】](https://cozyfishing.app/ja/android-cozy-games/): 2026年11月にGoogle Playで確認したAndroidの癒し系ゲームアプリ10本。釣り、農場、猫、片付けパズル、街づくり。価格と広告の有無も記載。
+- [Уютные игры на андроид: 10 лучших в 2026 году](https://cozyfishing.app/ru/uyutnye-igry-na-android/): 10 уютных игр на Android, проверенных в Google Play в ноябре 2026: рыбалка, ферма, котики, головоломки-уборка и города. Цена и реклама у каждой.
 - [Can You Play Games on Galaxy Watch? How to Install Them](https://cozyfishing.app/how-to-install-games-on-galaxy-watch/): Yes, Galaxy Watch and other Wear OS watches run real games. How to install apps on Galaxy Watch from the watch or your phone, how they play, and what you need.
 - [Galaxy Watch Apps installieren: So kommen Spiele drauf](https://cozyfishing.app/de/galaxy-watch-apps-installieren/): Auf Galaxy Watch und anderen Wear-OS-Uhren laufen echte Spiele. So installierst du Galaxy Watch Apps über die Uhr oder das Handy, und so wird gespielt.
 - [Installer une application sur Galaxy Watch : les jeux](https://cozyfishing.app/fr/installer-jeux-galaxy-watch/): Les Galaxy Watch et montres Wear OS font tourner de vrais jeux. Comment installer une application sur Galaxy Watch depuis la montre ou le téléphone.
