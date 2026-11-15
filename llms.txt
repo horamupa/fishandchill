@@ -28,6 +28,12 @@ A separate cozy offline fishing game for Android phones and Wear OS watches, fro
 
 ## Guides
 
+- [What Is an Idle Game? Idle vs Active Fishing Games](https://cozyfishing.app/what-is-an-idle-game/): What is an idle game, how idle fishing games like Hooked Inc work, and how they differ from active fishing games where you reel in every fish yourself.
+- [Was sind Idle-Spiele? Idle- vs. aktive Angelspiele](https://cozyfishing.app/de/was-sind-idle-spiele/): Was Idle-Spiele sind, wie Idle-Angelspiele wie Hooked Inc funktionieren und was aktive Angelspiele anders machen, in denen du jeden Fisch selbst drillst.
+- [Jeu idle : c'est quoi ? Jeux de pêche idle ou actifs](https://cozyfishing.app/fr/jeu-idle-c-est-quoi/): Ce qu'est un jeu idle, comment fonctionnent les jeux de pêche idle comme Hooked Inc, et ce qui change dans un jeu de pêche actif où vous ferrez chaque poisson.
+- [¿Qué son los juegos idle? Pesca idle frente a pesca activa](https://cozyfishing.app/es/que-es-un-juego-idle/): Qué son los juegos idle o incrementales, cómo funcionan los de pesca idle como Hooked Inc y en qué se diferencian de la pesca activa, donde sacas cada pez tú.
+- [放置ゲームとは？放置系の釣りゲームとアクティブな釣りゲームの違い](https://cozyfishing.app/ja/houchi-game-towa/): 放置ゲームとは何か、Hooked Incのような放置系釣りゲームの仕組み、そして自分で投げて巻いて魚とやり取りするアクティブな釣りゲームとの違いを解説します。
+- [Что такое idle игры и кликеры: idle и активная рыбалка](https://cozyfishing.app/ru/chto-takoe-idle-igry/): Что такое idle-игры и кликеры, как устроены idle-рыбалки вроде Hooked Inc и чем от них отличается активная рыбалка, где каждую рыбу вываживаете вы сами.
 - [Games to Play on a Plane (2026): 10 for iPhone Offline](https://cozyfishing.app/games-to-play-on-a-plane/): 10 iPhone games to play on a plane, checked in the App Store in November 2026: offline strategy, RPGs, puzzles, cards and games for two over Bluetooth.
 - [Spiele fürs Flugzeug (2026): 10 iPhone-Spiele offline](https://cozyfishing.app/de/spiele-fuers-flugzeug/): 10 Spiele fürs Flugzeug auf dem iPhone, im App Store geprüft im November 2026: Offline-Strategie, RPGs, Rätsel, Karten und Spiele zu zweit per Bluetooth.
 - [Jeux pour l'avion (2026) : 10 jeux iPhone hors ligne](https://cozyfishing.app/fr/jeux-pour-l-avion/): 10 jeux pour l'avion sur iPhone, vérifiés sur l'App Store en novembre 2026 : stratégie hors ligne, RPG, puzzles, cartes et jeux à deux en Bluetooth.

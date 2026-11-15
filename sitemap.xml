@@ -241,6 +241,72 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/support/"/>
   </url>
   <url>
+    <loc>https://cozyfishing.app/what-is-an-idle-game/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/was-sind-idle-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeu-idle-c-est-quoi/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/que-es-un-juego-idle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/houchi-game-towa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/chto-takoe-idle-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/de/was-sind-idle-spiele/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/was-sind-idle-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeu-idle-c-est-quoi/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/que-es-un-juego-idle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/houchi-game-towa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/chto-takoe-idle-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/fr/jeu-idle-c-est-quoi/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/was-sind-idle-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeu-idle-c-est-quoi/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/que-es-un-juego-idle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/houchi-game-towa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/chto-takoe-idle-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/es/que-es-un-juego-idle/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/was-sind-idle-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeu-idle-c-est-quoi/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/que-es-un-juego-idle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/houchi-game-towa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/chto-takoe-idle-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/ja/houchi-game-towa/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/was-sind-idle-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeu-idle-c-est-quoi/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/que-es-un-juego-idle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/houchi-game-towa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/chto-takoe-idle-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/ru/chto-takoe-idle-igry/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/was-sind-idle-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeu-idle-c-est-quoi/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/que-es-un-juego-idle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/houchi-game-towa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/chto-takoe-idle-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/what-is-an-idle-game/"/>
+  </url>
+  <url>
     <loc>https://cozyfishing.app/games-to-play-on-a-plane/</loc>
     <lastmod>2026-11-14</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/games-to-play-on-a-plane/"/>
