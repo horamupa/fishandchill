@@ -241,6 +241,72 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/support/"/>
   </url>
   <url>
+    <loc>https://cozyfishing.app/zen-games/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/zen-games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/zen-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeux-zen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/juegos-zen/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/nonbiri-games/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/meditativnye-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/zen-games/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/de/zen-spiele/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/zen-games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/zen-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeux-zen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/juegos-zen/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/nonbiri-games/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/meditativnye-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/zen-games/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/fr/jeux-zen/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/zen-games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/zen-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeux-zen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/juegos-zen/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/nonbiri-games/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/meditativnye-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/zen-games/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/es/juegos-zen/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/zen-games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/zen-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeux-zen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/juegos-zen/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/nonbiri-games/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/meditativnye-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/zen-games/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/ja/nonbiri-games/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/zen-games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/zen-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeux-zen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/juegos-zen/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/nonbiri-games/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/meditativnye-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/zen-games/"/>
+  </url>
+  <url>
+    <loc>https://cozyfishing.app/ru/meditativnye-igry/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/zen-games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cozyfishing.app/de/zen-spiele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cozyfishing.app/fr/jeux-zen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cozyfishing.app/es/juegos-zen/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cozyfishing.app/ja/nonbiri-games/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://cozyfishing.app/ru/meditativnye-igry/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cozyfishing.app/zen-games/"/>
+  </url>
+  <url>
     <loc>https://cozyfishing.app/games-for-anxiety/</loc>
     <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://cozyfishing.app/games-for-anxiety/"/>
