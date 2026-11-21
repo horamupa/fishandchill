@@ -28,6 +28,12 @@ A separate cozy offline fishing game for Android phones and Wear OS watches, fro
 
 ## Guides
 
+- [One Handed Games for iPhone (2026): 9 Picks](https://cozyfishing.app/one-handed-games/): 9 one handed games for iPhone, checked in the App Store in November 2026: brick breakers, roguelike card games, a vertical climber and tap puzzles.
+- [Spiele mit einer Hand fürs iPhone (2026): 9 Tipps](https://cozyfishing.app/de/spiele-mit-einer-hand/): 9 Einhand-Spiele fürs iPhone, im App Store geprüft im November 2026: Brick Breaker, Roguelike-Kartenspiele, ein Kletterspiel und Tipp-Rätsel.
+- [Jeux à une main sur iPhone (2026) : 9 idées](https://cozyfishing.app/fr/jeux-a-une-main/): 9 jeux à une main pour iPhone, vérifiés sur l'App Store en novembre 2026 : casse-briques, jeux de cartes roguelike, un jeu d'escalade et des puzzles à toucher.
+- [Juegos con una mano para iPhone (2026): 9 opciones](https://cozyfishing.app/es/juegos-con-una-mano/): 9 juegos con una mano para iPhone, revisados en el App Store en noviembre de 2026: rompeladrillos, cartas roguelike, un juego de escalada y puzles de toque.
+- [片手でできるゲーム iPhone版おすすめ9選（2026）](https://cozyfishing.app/ja/katate-games/): iPhoneで片手でできるゲーム9本を2026年11月にApp Storeで確認。ブロック崩し、ローグライクのカードゲーム、縦スクロールのアクション、タップで解くパズル。
+- [Игры одной рукой на iPhone (2026): 9 вариантов](https://cozyfishing.app/ru/igry-odnoy-rukoy/): 9 игр для iPhone, в которые можно играть одной рукой, проверены в App Store в ноябре 2026: арканоиды, карточные роглайки, вертикальный платформер и пазлы.
 - [Zen Games for iPhone: 10 Meditative Picks (2026)](https://cozyfishing.app/zen-games/): 10 zen games for iPhone, checked in the App Store in November 2026: fishing, koi, color puzzles, town building, sand. No timers, nothing to lose.
 - [Zen-Spiele fürs iPhone: 10 meditative Spiele (2026)](https://cozyfishing.app/de/zen-spiele/): 10 Zen-Spiele fürs iPhone, im App Store geprüft im November 2026: Angeln, Koi, Farbrätsel, Städtebau, Sand. Ohne Timer, ohne Verlieren.
 - [Jeux zen sur iPhone : 10 jeux méditatifs (2026)](https://cozyfishing.app/fr/jeux-zen/): 10 jeux zen sur iPhone, vérifiés sur l'App Store en novembre 2026 : pêche, carpes koï, puzzles de couleurs, construction, sable. Sans chrono, six gratuits.
